@@ -11,7 +11,7 @@
 
 ---
 
-## 📟 - Tecnologies
+## 📟 - Tecnologies and Technical skills
 
 ![HTML5](https://img.shields.io/badge/⭐️-html5-%23E34F26.svg?style=for-the-badge&logo=htmls5&Color=white)
 ![CSS3](https://img.shields.io/badge/⭐️-css3-%231572B6.svg?style=for-the-badge&logo=csss3&logoColor=Silver)
@@ -27,7 +27,7 @@
 ![PhotoShop](https://img.shields.io/badge/⭐️-photoShop-%23323330.svg?style=for-the-badge&logo=photoshop&color=Beige)
 ![PhotoShop](https://img.shields.io/badge/⭐️-AutoCad-%23323330.svg?style=for-the-badge&logo=photoshop&color=pink)
 
-## Soft skills 
+## 🌱 - Soft skills 
 
 Presentation skills :  ⭐️⭐️⭐️⭐️⭐️
 
