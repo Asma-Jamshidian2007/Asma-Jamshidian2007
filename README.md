@@ -29,16 +29,23 @@
 
 ## Soft skills 
 
-💪Presentation skills
+Presentation skills :  ⭐️⭐️⭐️⭐️⭐️
 
-💪Creativity and ideation
+Creativity and ideation :  ⭐️⭐️⭐️⭐️⭐️
 
-💪Innovation
+Innovation :  ⭐️⭐️⭐️⭐️⭐️
 
-💪Problem-solving skills
+Problem-solving skills   ⭐️⭐️⭐️⭐️⭐️
 
-💪Sympathy
+Sympathy   ⭐️⭐️⭐️⭐️⭐️
 
+leadership:⭐️⭐️⭐️⭐️⭐️
+
+Management of remote work teamsteam work:⭐️⭐️⭐️⭐️⭐️
+
+Body Language:⭐️⭐️⭐️⭐️⭐️
+
+team building⭐️⭐️⭐️⭐️
 
 ---
  
