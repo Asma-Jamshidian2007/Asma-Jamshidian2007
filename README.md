@@ -37,9 +37,11 @@ I was always curious about everything and I didn't give up until I get the answe
   <a href="in/asma-jamshidian-b5a458292">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  <a href="https://stackoverflow.com/users/22448256/asma-jamshidian">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" /><a href="jamshidiana154@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
+  </a>
+  <a href=" mailto:jamshidiana154@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
 
