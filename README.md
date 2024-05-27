@@ -40,7 +40,7 @@ I was always curious about everything and I didn't give up until I get the answe
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   </a>
-  <a href=" mailto:jamshidiana154@gmail.com">
+  <a href="mailto:jamshidiana154@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
