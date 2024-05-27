@@ -21,7 +21,7 @@
 ![CSS3](https://img.shields.io/badge/⭐️-C++-%231572B6.svg?style=for-the-badge&logo=csss3&logoColor=Maroon)
 
 
-![HTML5](https://img.shields.io/badge/⭐️-Captivate-%23E34F26.svg?style=for-the-badge&logo=htmls5&Color=gray)
+![HTML5](https://img.shields.io/badge/⭐️-Captivate-%23E34F26.svg?style=for-the-badge&logo=htmls5&Color=blue)
 ![CSS3](https://img.shields.io/badge/⭐️-Linux-%231572B6.svg?style=for-the-badge&logo=csss3&Color=white)
 ![JavaScript](https://img.shields.io/badge/⭐️-illustrator-%23323330.svg?style=for-the-badge&color=red)
 ![PhotoShop](https://img.shields.io/badge/⭐️-photoShop-%23323330.svg?style=for-the-badge&logo=photoshop&color=Beige)
