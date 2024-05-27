@@ -36,6 +36,5 @@ I was always curious about everything and I didn't give up until I get the answe
 > Finally, I was drawn to the world of technology and embraced it.
 ---
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=Asma-Jamshidian2007&count_private=true&show_icons=true&theme=radical&include_all_commits=true)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" />
 
 
