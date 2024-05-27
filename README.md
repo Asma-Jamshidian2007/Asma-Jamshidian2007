@@ -24,12 +24,13 @@
  
 ## 🤔 - Why technology field?
 
+---
 > When I was 11 years old, I liked to be a doctor or a nurse,But I've liked computers from childhood until now that I choose my target.
 I was always curious about everything and I didn't give up until I get the answer I wanted. Every time I researched about computers,
 > I didn't get the answer I wanted, and this made the subject more interesting to me.
 > I have been curious about computers for three years and I realized that my interest in computers has increased
 > Finally, I was drawn to the world of technology and embraced it.
-
+---
 
 
 
