@@ -34,7 +34,7 @@ I was always curious about everything and I didn't give up until I get the answe
 ---
 <div display="inline-block">
 <p align="center">
-  <a href="in/asma-jamshidian-b5a458292">
+  <a href="https://www.linkedin.com/in/asma-jamshidian-b5a458292/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  <a href="https://stackoverflow.com/users/22448256/asma-jamshidian">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
