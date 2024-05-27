@@ -32,9 +32,22 @@ I was always curious about everything and I didn't give up until I get the answe
 > I have been curious about computers for three years and I realized that my interest in computers has increased
 > Finally, I was drawn to the world of technology and embraced it.
 ---
+<div display="inline-block">
+<p align="center">
+  <a href="in/asma-jamshidian-b5a458292">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  <a href="https://stackoverflow.com/users/22448256/asma-jamshidian">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" /><a href="jamshidiana154@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  </a>
+</p>
 
 
 
+
+  
+</p><div/>
 
 
 
