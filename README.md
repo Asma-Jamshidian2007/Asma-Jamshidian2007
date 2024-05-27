@@ -27,6 +27,8 @@
 ![PhotoShop](https://img.shields.io/badge/⭐️-photoShop-%23323330.svg?style=for-the-badge&logo=photoshop&color=Beige)
 ![PhotoShop](https://img.shields.io/badge/⭐️-AutoCad-%23323330.svg?style=for-the-badge&logo=photoshop&color=pink)
 
+
+
 ## 🌱 - Soft skills 
 
 Presentation skills :  ⭐️⭐️⭐️⭐️⭐️
@@ -46,6 +48,7 @@ Management of remote work teamsteam work:⭐️⭐️⭐️⭐️⭐️
 Body Language:⭐️⭐️⭐️⭐️⭐️
 
 team building⭐️⭐️⭐️⭐️
+
 
 ---
  
