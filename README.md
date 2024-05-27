@@ -22,6 +22,18 @@
     <img src="https://skillicons.dev/icons?i=vscode,ai,pycharm,css,figma" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,bootstrap,codepen,ai,js" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,windows,kali" />
+  </a>
+</p>
+  </a>
+</p>
 <br>
 ## 🤔 - Why technology field?
 
@@ -32,24 +44,24 @@ I was always curious about everything and I didn't give up until I get the answe
 > I have been curious about computers for three years and I realized that my interest in computers has increased
 > Finally, I was drawn to the world of technology and embraced it.
 ---
-<div display="inline-block">
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/asma-jamshidian-b5a458292/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>  <a href="https://stackoverflow.com/users/22448256/asma-jamshidian">
+   <a href="https://stackoverflow.com/users/22448256/asma-jamshidian">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
   </a>
   <a href="mailto:jamshidiana154@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://skillicons.dev/icons?i=discord"/><a href="https://www.linkedin.com/in/asma-jamshidian-b5a458292/">     
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+    
+  </a> 
+  </a>
 </p>
 
 
-
-
-  
-</p><div/>
 
 
 
