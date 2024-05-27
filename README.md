@@ -31,8 +31,8 @@ I was always curious about everything and I didn't give up until I get the answe
 
 ![HTML5](https://img.shields.io/badge/⭐️-Python-%23E34F26.svg?style=for-the-badge&logo=htmls5&logoColor=Mint)
 ![CSS3](https://img.shields.io/badge/⭐️-C++-%231572B6.svg?style=for-the-badge&logo=csss3&logoColor=Maroon)
-![CSS3](https://img.shields.io/badge/⭐️-Linux-%231572B6.svg?style=for-the-badge&logo=csss3&logoColor=white)
-
+![CSS3](https://img.shields.io/badge/⭐️-Ubuntu-%231572B6.svg?style=for-the-badge&logo=csss3&logoColor=white)
+![CSS3](https://img.shields.io/badge/⭐️-KaliLinux-%231572B6.svg?style=for-the-badge&logo=csss3&Color=black)
 
 
 
