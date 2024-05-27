@@ -9,6 +9,7 @@
 > I am interested in learning everything and trying new thing. 
 ---
 <br>
+
 ## 📟 - Tecnologies and Technical skills
 
 ![HTML5](https://img.shields.io/badge/⭐️-html5-%23E34F26.svg?style=for-the-badge&logo=htmls5&logoColor=white)
@@ -22,6 +23,7 @@
 ![CSS3](https://img.shields.io/badge/⭐️-KaliLinux-%231572B6.svg?style=for-the-badge&logo=csss3&Color=black)
 
  <br>
+ 
 ## 🤔 - Why technology field?
 
 ---
