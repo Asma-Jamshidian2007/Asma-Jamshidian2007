@@ -9,19 +9,6 @@
 > I am interested in learning everything and trying new thing. 
 ---
 
- 
-## 🤔 - Why?
-
-> When I was 11 years old, I liked to be a doctor or a nurse,But I've liked computers from childhood until now that I choose my target.
-I was always curious about everything and I didn't give up until I get the answer I wanted. Every time I researched about computers,
-> I didn't get the answer I wanted, and this made the subject more interesting to me.
-> I have been curious about computers for three years and I realized that my interest in computers has increased
-> Finally, I was drawn to the world of technology and embraced it.
-
-
-
-
-
 ## 📟 - Tecnologies and Technical skills
 
 ![HTML5](https://img.shields.io/badge/⭐️-html5-%23E34F26.svg?style=for-the-badge&logo=htmls5&logoColor=white)
@@ -34,7 +21,21 @@ I was always curious about everything and I didn't give up until I get the answe
 ![CSS3](https://img.shields.io/badge/⭐️-Ubuntu-%231572B6.svg?style=for-the-badge&logo=csss3&logoColor=white)
 ![CSS3](https://img.shields.io/badge/⭐️-KaliLinux-%231572B6.svg?style=for-the-badge&logo=csss3&Color=black)
 
+ 
+## 🤔 - Why technology field?
+
+> When I was 11 years old, I liked to be a doctor or a nurse,But I've liked computers from childhood until now that I choose my target.
+I was always curious about everything and I didn't give up until I get the answer I wanted. Every time I researched about computers,
+> I didn't get the answer I wanted, and this made the subject more interesting to me.
+> I have been curious about computers for three years and I realized that my interest in computers has increased
+> Finally, I was drawn to the world of technology and embraced it.
 
 
+
+
+
+
+
+ 
 
 
