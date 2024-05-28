@@ -10,7 +10,7 @@
 ---
 <br>
 
-## 📟 - Tecnologies and Technical skills
+## 📟 - Tecnologies and Tools
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
