@@ -24,12 +24,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,bootstrap,codepen,ai,js" />
+    <img src="https://skillicons.dev/icons?i=ae,bootstrap,codepen,kali,js" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,windows,kali" />
+    <img src="https://skillicons.dev/icons?i=ps,windows" />
   </a>
 </p>
   </a>
