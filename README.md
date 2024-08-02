@@ -5,7 +5,7 @@
 > I'm currently studying computer at Ariana Technical and Vocational School!
 > I am interested in learning everything and trying new thing!
 >  
-> At the end,coding is a part of my heart 🫀👩‍💻
+> Coding is a part of my heart 🫀👩‍💻
 ---
 <br>
 
