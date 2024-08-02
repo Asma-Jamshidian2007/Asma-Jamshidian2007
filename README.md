@@ -1,4 +1,4 @@
-![Profile banner](https://i.imgur.com/VNP2tTx.gif)
+![astronaut-in-the-ocean 1920x1080](https://github.com/user-attachments/assets/b723457a-7c42-4579-ae41-8ab2b1e3e7d2)
 <br>
 ## ⭐ - Introduction
 > Hello! My name is Asma.
