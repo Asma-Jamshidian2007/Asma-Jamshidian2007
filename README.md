@@ -2,8 +2,8 @@
 ## ⭐ - Introduction
 > Hello! My name is Asma.
 > I'm started the field of computer and technology at 16.
-> I like working as debuger || web developer || secority expert in a company.
-> I'm currently studing computer at Ariana Technical and Vocational School!
+> I like working as debuger || web developer || security expert in a company.
+> I'm currently studying computer at Ariana Technical and Vocational School!
 > I am interested in cooperation with creativity oriented companies.
 > I am interested in learning everything and trying new thing. 
 ---
