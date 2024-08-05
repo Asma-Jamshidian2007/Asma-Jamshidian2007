@@ -18,25 +18,14 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ai,pycharm,css,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,css,js" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,bootstrap,codepen,kali,js" />
+    <img src="https://skillicons.dev/icons?i=python,codepen,kali" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,windows,python" />
-  </a>
-</p>
-  </a>
-</p>
-<br>
 
-<div align='center'>
-  
- ![ Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asma-Jamshidian2007&show_icons=true&theme=transparent)
-</div>
+<br>
 
