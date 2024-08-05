@@ -35,7 +35,8 @@
 </p>
 <br>
 
-
- 
-
+<div align='center'>
+  
+ ![ Asma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asma-Jamshidian2007&show_icons=true&theme=transparent)
+</div>
 
