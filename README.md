@@ -1,11 +1,14 @@
 
-## ⭐ - Introduction
-> Hello! My name is Asma.
-> I'm started the field of computer and technology at 16.
-> I'm currently studying computer at Ariana Technical and Vocational School!
-> I am interested in learning everything and trying new thing!
->  
-> Coding is a part of my heart 🫀👩‍💻
+```JS
+/* Asma-Jamshidian2007 */
+const greeting = "Hello!";
+const Fullname = "Asma Jamshidian";
+let Favorites = ["Graphic designing","Programming","Space","musicianship"];
+let Expertise = Favorites[1];
+let Exprience=[1/5,"Years"];
+let GoodThings=["Software Freedom","Open Sorce Softwares"];
+
+```
 ---
 <br>
 
