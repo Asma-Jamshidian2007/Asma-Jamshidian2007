@@ -1,13 +1,14 @@
 
 ```JS
 /* Asma-Jamshidian2007 */
-const greeting = "Hello!";
+let greeting = "Hello!";
 const Fullname = "Asma Jamshidian";
 let Favorites = ["Graphic designing","Programming","Space","musicianship"];
-let Expertise = Favorites[1];
+const Expertise = Favorites[1];
 let Exprience=[1/5,"Years"];
-let GoodThings=["Software Freedom","Open Sorce Softwares"];
-
+const GoodThings=["Software Freedom","Open Sorce Softwares"];
+let GraphicTools=["Photoshop","Illustrator","After Effects"]
+let Languages=["Python","Javascript","C#","HTML","CSS"]
 ```
 ---
 <br>
@@ -21,12 +22,12 @@ let GoodThings=["Software Freedom","Open Sorce Softwares"];
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,css,js,ps" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,css,js" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,codepen,kali,ae,windows" />
+    <img src="https://skillicons.dev/icons?i=python,kali,windows" />
   </a>
 </p>
 
