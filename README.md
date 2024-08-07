@@ -11,7 +11,7 @@ let GraphicTools = ["Photoshop","Illustrator","After Effects"]
 let Languages = ["Python","Javascript","C#","HTML","CSS"]
 let PTools = ["VS","VSCode","Pycharm","Webstorem","git","GitHub"]
 
-const GoodThings = ["Software Freedom","Open Sorce Softwares"]
+const GoodThings = ["Software Freedom","Open Source Softwares"]
 ```
 ---
 <div>
