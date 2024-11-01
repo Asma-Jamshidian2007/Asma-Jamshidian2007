@@ -7,7 +7,7 @@ const Fullname = "Asma Jamshidian"
 let Favorites = ["Graphic designing","Programming","Space","musicianship"]
 const Expertise = Favorites[1]
 let Exprience = [1,"Year"]
-let GraphicTools = ["Photoshop","Illustrator","After Effects"]
+let GraphicTools = ["Photoshop","Illustrator"]
 let Languages = ["Python","Javascript","C#","HTML","CSS","C++"]
 let PTools = ["VS","VSCode","Pycharm","Webstorm","git","GitHub"]
 
