@@ -2,7 +2,7 @@
 ```JS
 /* Asma-Jamshidian2007 */
 
-let greeting= "Hello!"
+let Greeting= "Hello!"
 const Fullname = "Asma Jamshidian"
 let Favorites = ["Graphic designing","Programming","Space","musicianship"]
 const Expertise = Favorites[1]
