@@ -13,6 +13,8 @@ let DevTools = ["VS", "VSCode", "Pycharm", "Webstorm", "Git", "GitHub"];
 const GoodThings = ["Software Freedom","Open Source Softwares"];
 
 ```
+<br>
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+</div>
