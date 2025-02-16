@@ -1,4 +1,3 @@
-![DALL·E 2025-02-14 20 39 36 - A cartoon-style gif of a female programmer typing on a keyboard  She is focused, wearing casual clothing with short hair  The scene has a modern works](https://github.com/user-attachments/assets/e3d8992c-7858-4e5d-a657-94b4d3d2f9cf)
 
 <p align="center">
   
