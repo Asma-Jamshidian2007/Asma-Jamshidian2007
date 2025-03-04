@@ -17,8 +17,9 @@
   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-Jamshidian2007&langs_count=3&layout=compact&theme=dark)
 
   <br>
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asma-Jamshidian2007&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=dark)
 
-  ![GitHub stars](https://github-readme-stats.vercel.app/api?username=Asma-Jamshidian2007&show_icons=true&count_private=true&hide_title=true&theme=dark)
 </p>
 
   **"Code is like humor. When you have to explain it, it’s bad." - Cory House**
